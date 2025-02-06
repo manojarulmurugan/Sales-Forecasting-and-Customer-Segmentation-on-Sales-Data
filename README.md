@@ -55,8 +55,8 @@ This project analyzes **370,000 HP Sales records** to:
 | **XGBoost** |  |
 
 📌 **Findings**:
-- **High-Churn Risk**: Customers from **Latin America & SEMEA**.
-- **Key Indicator**: Reduced purchase frequency over **last 6 months**.
+- **High-Churn Risk**: **.
+- **Key Indicator**: **.
 
 ---
 
