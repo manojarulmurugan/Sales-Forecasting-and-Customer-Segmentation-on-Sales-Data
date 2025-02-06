@@ -62,24 +62,14 @@ This project analyzes **370,000 Sales records** to:
 
 ## 📈 Key Visualizations
 
-### **Customer Segmentation - Examples**
-![Revenue by Product Type](reports/images/customer_segmentation_eg1.png)
-
-![Units Sold by Geographic Area](reports/images/customer_segmentation_eg2.png)
-
-![Pareto Chart of Revenue by Geographic Area and Product Type](reports/images/customer_segmentation_eg3.png)
-
 ### **Sales Forecasting Example (ARIMA Model)**
-![Sales Forecast for Northwest Europe](reports/images/arima_forecast.png)
+![Sales Forecast ARIMA](reports/images/arima_forecast.png)
 
 ### **Revenue Forecasting Example (LSTM Model)**
-![Sales Forecast for Northwest Europe](reports/images/lstm_forecast.png)
+![Sales Forecast LSTM](reports/images/lstm_forecast.png)
 
 ### **Customer Churn by Country**
 ![Customer Churn by Country](reports/images/churn_by_country.png)
-
-### **Customer Churn by Product Segment**
-![Customer Churn by Product Segment](reports/images/churn_by_products.png)
 
 ### **Customer Churn Prediction Performance**
 ![Churn Model Accuracy](reports/images/churn_model_accuracy.png)
