@@ -75,6 +75,9 @@ This project analyzes **370,000 HP Sales records** to:
 ### **Revenue Forecasting Example (LSTM Model)**
 ![Sales Forecast for Northwest Europe](reports/images/lstm_forecast.png)
 
+### **Customer Churn by Country**
+![Customer Churn by Country](reports/images/churn_by_country.png)
+
 ### **Customer Churn Prediction Performance**
 ![Churn Model Accuracy](reports/images/churn_model_accuracy.png)
 
