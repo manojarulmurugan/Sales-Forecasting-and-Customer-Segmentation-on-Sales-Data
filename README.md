@@ -40,7 +40,7 @@ This project analyzes **370,000 HP Sales records** to:
 ### **1️⃣ Demand & Revenue Forecasting**
 | Model | Purpose | MAPE (Error) |
 |--------|---------|--------------|
-| **ARIMA** | Time-series forecasting | **<1%** |
+| **ARIMA** | Time-series forecasting | **<25%** |
 | **LSTM (Deep Learning)** | Capturing complex trends | **~0.8%** |
 
 📌 **Results**:
@@ -50,9 +50,9 @@ This project analyzes **370,000 HP Sales records** to:
 ### **2️⃣ Customer Churn Prediction**
 | Model | Accuracy |
 |--------|---------|
-| **Logistic Regression** | 85% |
-| **Random Forest** | 91% |
-| **XGBoost (Best Model)** | **94.2%** |
+| **Logistic Regression** |  |
+| **Random Forest** |  |
+| **XGBoost** |  |
 
 📌 **Findings**:
 - **High-Churn Risk**: Customers from **Latin America & SEMEA**.
