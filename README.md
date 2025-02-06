@@ -1,8 +1,8 @@
-# 📊 Sales Forecasting & Customer Churn Prediction on HP Sales Data
+# 📊 Sales Forecasting & Customer Churn Prediction on Sales Data
 A Business Data Management project for B.S. in Data Science & Applications Diploma at the Indian Institute of Technology Madras (IITM)
 
 ## 📌 Project Overview
-This project analyzes **370,000 HP Sales records** to:
+This project analyzes **370,000 Sales records** to:
 - **Segment customers and products** based on purchase behavior.
 - **Predict future sales & revenue** using **ARIMA & LSTM models** (achieving <1% error).
 - **Identify customer churn trends** using classification models.
