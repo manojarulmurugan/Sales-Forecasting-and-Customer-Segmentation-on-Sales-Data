@@ -78,6 +78,9 @@ This project analyzes **370,000 HP Sales records** to:
 ### **Customer Churn by Country**
 ![Customer Churn by Country](reports/images/churn_by_country.png)
 
+### **Customer Churn by Product Segment**
+![Customer Churn by Product Segment](reports/images/churn_by_products.png)
+
 ### **Customer Churn Prediction Performance**
 ![Churn Model Accuracy](reports/images/churn_model_accuracy.png)
 
