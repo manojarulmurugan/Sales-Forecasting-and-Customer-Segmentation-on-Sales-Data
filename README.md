@@ -13,7 +13,7 @@ This project analyzes **370,000 Sales records** to:
 3. **Customer Churn Prediction**: Identify potential **at-risk customers** and suggest retention strategies.
 
 ## 📊 Dataset Details
-- **Source**: HP’s distributor-retailer-customer transaction data (4 years).
+- **Source**: A printing compay's distributor-retailer-customer transaction data (4 years).
 - **Size**: **370,000 records**.
 - **Key Attributes**:
   - **Sales Information**: Revenue, units sold, purchase frequency.
